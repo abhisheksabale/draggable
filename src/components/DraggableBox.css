@@ -1,0 +1,17 @@
+.draggable-container {
+    border: 1px solid gray;
+
+    .header {
+        background-color: lightgray;
+        border: 1px solid gray;
+        cursor: grab;
+        text-align: center;
+    }
+
+    .body {
+        position: relative;  /* relative position makes body the parent of child boxes */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

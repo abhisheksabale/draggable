@@ -11,3 +11,5 @@
   You can also open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Below is the video of how the app works
+
+![](https://github.com/abhisheksabale/draggable/blob/main/DraggableDemo.gif)
